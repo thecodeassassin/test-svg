@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="560px" height="315px">
-        <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://dbdiagram.io/embed/6059f524ecb54e10c33cdabc"></iframe>
+<svg width="960" height="850">
+  <g transform="translate(300, 0) rotate(20)">
+    <foreignObject x="10" y="10" width="800" height="800">
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <iframe src="https://dbdiagram.io/embed/6059f524ecb54e10c33cdabc" style="width:700px;height:700px"></iframe>
+      </body>
     </foreignObject>
+  </g>
 </svg>
